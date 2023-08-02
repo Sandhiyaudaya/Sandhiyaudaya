@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sandhiyaudaya
 - 👀 I’m interested in Learning new things..
-- 🌱 I’m currently learning React..
 - 💞️ I’m looking to collaborate on my email..
 - 📫 How to reach me sandhiya.u@gmail.com..
 
